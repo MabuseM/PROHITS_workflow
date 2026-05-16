@@ -57,7 +57,7 @@ Integrated contaminant resources include:
 * MaxQuant contaminants
 * cRAP contaminants
 * Hao-group contaminants
-* User-defined custom contaminant FASTA files
+* User-ined custom contaminant FASTA files
 
 ## Export and Compatibility
 
@@ -152,7 +152,7 @@ The workflow requires DIA-NN output files:
 To enable XIC-based peptide filtering:
 
 1. Enable XIC export in DIA-NN
-2. Import the generated XIC report into DEF
+2. Import the generated XIC report into PROHITS workflow
 3. Activate the “XICs filter” module
 
 The workflow extracts b- and y-ion series and retains peptides supported by at least four consecutive fragment ions.
@@ -269,7 +269,7 @@ This project is distributed under the MIT License.
 
 # Acknowledgements
 
-The DEF workflow was developed using the KNIME Analytics Platform and DIA-NN proteomics outputs.
+The PROHITS workflow was developed using the KNIME Analytics Platform and DIA-NN proteomics outputs.
 
 Contaminant resources incorporated into the workflow include datasets from:
 
