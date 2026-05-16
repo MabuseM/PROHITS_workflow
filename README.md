@@ -120,9 +120,9 @@ Install all required extensions directly through KNIME:
 * KNIME JavaScript Views
 * KNIME File Handling Extensions
 
-## 3. Download DEF Workflow
+## 3. Download PROHITS Workflow
 
-
+Download PROHITS workflow.knwf
 
 ## 4. Open Workflow in KNIME
 
